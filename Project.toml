@@ -1,7 +1,7 @@
 name = "test_CI"
 uuid = "f58e3fb2-c587-4d8f-98e7-7466f5c1bd75"
 authors = ["gregoirepourtier <gpourtier@icloud.com>"]
-version = "0.1.0"
+version = "0.0.1"
 
 [deps]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
